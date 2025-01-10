@@ -1,4 +1,4 @@
-# Import python packages
+# import python packages
 # import streamlit as st
 # from snowflake.snowpark.context import get_active_session
 
@@ -30,7 +30,7 @@
 
 
 
-import python packages
+# import python packages
 import streamlit as st
 
 from snowflake.snowpark.functions import col
